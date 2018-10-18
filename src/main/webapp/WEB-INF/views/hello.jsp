@@ -7,9 +7,10 @@
 <title>Spring Boot Web App</title>
 </head>
 <body>
-<h1>Welcome to my first Sprint Boot Web application </h1>
+<h1>Welcome to Tata Capital </h1>
 	<hr>
-	<h3>Your name is name</h3>
-
+	<h1><input type=button onclick="location.href='/newpersonalloan'" value="New Personal Loan"></h1>
+	<h1><input type=button onclick="location.href='/findLoanDetailsOfUser'" value="Check Loan Details"></h1>
+	
 </body>
 </html>
